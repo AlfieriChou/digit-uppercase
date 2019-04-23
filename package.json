@@ -1,0 +1,14 @@
+{
+  "name": "digit-uppercase",
+  "version": "1.0.0",
+  "description": "用于财务结算金额数字转大写数字",
+  "main": "index.js",
+  "keywords": [
+    "digit",
+    "chinese",
+    "uppercase"
+  ],
+  "repository": "https://github.com/AlfieriChou/digit-uppercase",
+  "author": "AlfieriChou <alfierichou@gmail.com>",
+  "license": "MIT"
+}
